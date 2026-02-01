@@ -82,20 +82,6 @@ I'm a passionate **B.Sc. Computer Science student** at **Bhavan's College (Auton
 
 ---
 
-## 📈 GitHub Statistics
-
-<div align="center">
-  
-![Mohammad Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammaddanishlakhani-byte&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammaddanishlakhani-byte&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammaddanishlakhani-byte&theme=radical&hide_border=true)
-
-</div>
-
----
-
 ## 🏆 Certifications & Achievements
 
 - **Ethical Hacking Certification** - NPTEL Online Certification & IIT Kharagpur (12-week program)
@@ -146,7 +132,5 @@ I'm a passionate **B.Sc. Computer Science student** at **Bhavan's College (Auton
 ### ⚡ **Fun Fact:** I'm balancing dual internships while pursuing my Computer Science degree!
 
 **Thanks for visiting my profile!** 😊
-
-![Visitor Count](https://profile-counter.glitch.me/mohammaddanishlakhani-byte/count.svg)
 
 </div>
