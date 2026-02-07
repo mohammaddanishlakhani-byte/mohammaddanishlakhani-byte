@@ -131,7 +131,7 @@ I'm a passionate **B.Sc. Computer Science student** at **Bhavan's College (Auton
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mohddanishlakhani@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mohammad-danish-lakhani-003398329/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/mohammaddanishlakhani-byte)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge\&logo=google-chrome\&logoColor=white)]([https://mohammaddanishlakhani-byte.github.io/](https://mohammaddanishlakhani-byte.github.io/portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://mohammaddanishlakhani-byte.github.io/portfolio/)
 
 </div>
 
